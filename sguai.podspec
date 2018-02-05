@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
 
 #s.source_files  = "sguai", "sguai/*"
-s.source_files  = "sguai/SmartCupGuai1/intelligent_cup/*.{h,m}"
+s.source_files  = "sguai/SmartCupGuai1/intelligent_cup/*"
 
   #s.exclude_files = "Classes/Exclude"
 
