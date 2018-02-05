@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
 
 #s.source_files  = "sguai", "sguai/*"
-s.source_files  = "sguai/SmartCupGuai1/intelligent_cup/*"
+    s.source_files  = "sguai/SmartCupGuai1/*"
 
   #s.exclude_files = "Classes/Exclude"
 
@@ -34,7 +34,7 @@ s.source_files  = "sguai/SmartCupGuai1/intelligent_cup/*"
 
 
   # s.resource  = "icon.png"
-s.resources = "sguai/SmartCupGuai1/*.wav"
+s.resources = "sguai/SmartCupGuai1/*"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
