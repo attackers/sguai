@@ -2,16 +2,16 @@
 Pod::Spec.new do |s|
 
   s.name         = "sguai"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "small cup"
 
   s.description  = <<-DESC
                    small sguai cup
-			DESC
+			    DESC
   s.homepage     = "https://github.com/attackers/sguai"
 
-#s.license      = "MIT (example)"
-   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  # s.license      = "MIT (example)"
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   s.author             = { "leaf" => "305296172@qq.com" }
@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/attackers/sguai.git", :tag => "#{s.version}" }
 
 
-    #s.source_files  = "sguai", "sguai/**/*.{h,m}"
-    s.source_files  = "sguai"
+#s.source_files  = "sguai", "sguai/*"
+s.source_files  = "sguai/SmartCupGuai1/*.{h,m}"
 
   #s.exclude_files = "Classes/Exclude"
 
@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
 
 
   # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
+s.resources = "sguai/SmartCupGuai1/*.wav"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
