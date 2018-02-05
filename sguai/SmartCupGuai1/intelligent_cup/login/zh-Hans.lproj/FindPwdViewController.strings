@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "注册手机号"; ObjectID = "KvK-Bn-vU2"; */
+"KvK-Bn-vU2.placeholder" = "注册手机号";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "Kzw-wM-KqU"; */
+"Kzw-wM-KqU.normalTitle" = "确认";
+
+/* Class = "UITextField"; placeholder = "新密码"; ObjectID = "PWr-8O-AlS"; */
+"PWr-8O-AlS.placeholder" = "新密码";
+
+/* Class = "UITextField"; placeholder = "确认密码"; ObjectID = "t3N-KF-3hG"; */
+"t3N-KF-3hG.placeholder" = "确认密码";

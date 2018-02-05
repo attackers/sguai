@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "每天"; ObjectID = "H5F-h4-pL9"; */
+"H5F-h4-pL9.normalTitle" = "Every day";
+
+/* Class = "UIButton"; normalTitle = "日"; ObjectID = "HRo-5Y-rAM"; */
+"HRo-5Y-rAM.normalTitle" = "Sun";
+
+/* Class = "UILabel"; text = "重复"; ObjectID = "In5-gI-z2c"; */
+"In5-gI-z2c.text" = "repeat";
+
+/* Class = "UIButton"; normalTitle = "六"; ObjectID = "P2Y-DQ-hKl"; */
+"P2Y-DQ-hKl.normalTitle" = "Sat";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "QLS-Fp-TPi"; */
+"QLS-Fp-TPi.normalTitle" = "Finish";
+
+/* Class = "UIButton"; normalTitle = "二"; ObjectID = "a4o-WW-Th4"; */
+"a4o-WW-Th4.normalTitle" = "Tue";
+
+/* Class = "UIButton"; normalTitle = "四"; ObjectID = "aa7-RL-WoA"; */
+"aa7-RL-WoA.normalTitle" = "Thur";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "kwk-kL-eQY"; */
+"kwk-kL-eQY.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "三"; ObjectID = "m4m-y7-uqV"; */
+"m4m-y7-uqV.normalTitle" = "Wed";
+
+/* Class = "UIButton"; normalTitle = "220ml"; ObjectID = "rVC-ol-17e"; */
+"rVC-ol-17e.normalTitle" = "220ml";
+
+/* Class = "UIButton"; normalTitle = "一"; ObjectID = "wU0-RX-4jV"; */
+"wU0-RX-4jV.normalTitle" = "Mon";
+
+/* Class = "UILabel"; text = "单次饮水量"; ObjectID = "wch-4m-KJr"; */
+"wch-4m-KJr.text" = "One-off water intake";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "zA6-mL-Eej"; */
+"zA6-mL-Eej.normalTitle" = "okay";
+
+/* Class = "UIButton"; normalTitle = "工作日"; ObjectID = "zMR-YA-8Bh"; */
+"zMR-YA-8Bh.normalTitle" = "Workday";
+
+/* Class = "UIButton"; normalTitle = "五"; ObjectID = "zxa-AI-S9V"; */
+"zxa-AI-S9V.normalTitle" = "Fri";

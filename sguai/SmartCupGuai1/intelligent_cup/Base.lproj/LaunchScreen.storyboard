@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="15G1217" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="analyze_bg" translatesAutoresizingMaskIntoConstraints="NO" id="zIo-BX-zNS">
+                                <rect key="frame" x="156" y="256" width="240" height="128"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="zIo-BX-zNS" secondAttribute="bottom" id="J8q-K8-VuG"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="zIo-BX-zNS" secondAttribute="trailing" constant="-20" id="Lks-Ga-wFC"/>
+                            <constraint firstItem="zIo-BX-zNS" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="YUA-cD-xmh"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="zIo-BX-zNS" secondAttribute="trailing" id="jrk-y7-fBG"/>
+                            <constraint firstItem="zIo-BX-zNS" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="topMargin" id="nnE-kw-VgW"/>
+                            <constraint firstItem="zIo-BX-zNS" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="-20" id="v1a-OD-KMQ"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="Lks-Ga-wFC"/>
+                                <exclude reference="YUA-cD-xmh"/>
+                                <exclude reference="jrk-y7-fBG"/>
+                                <exclude reference="nnE-kw-VgW"/>
+                                <exclude reference="v1a-OD-KMQ"/>
+                                <exclude reference="J8q-K8-VuG"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="Lks-Ga-wFC"/>
+                                <exclude reference="YUA-cD-xmh"/>
+                                <exclude reference="jrk-y7-fBG"/>
+                                <include reference="nnE-kw-VgW"/>
+                                <include reference="v1a-OD-KMQ"/>
+                                <include reference="J8q-K8-VuG"/>
+                            </mask>
+                        </variation>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.5" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="analyze_bg" width="750" height="1334"/>
+    </resources>
+</document>

@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "30天中，21天喝水达标"; ObjectID = "1jR-xc-O1z"; */
+"1jR-xc-O1z.text" = "30天中，21天喝水达标";
+
+/* Class = "UILabel"; text = "250ml"; ObjectID = "3Ja-0f-uWG"; */
+"3Ja-0f-uWG.text" = "250ml";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "Dcu-Fs-mzs"; */
+"Dcu-Fs-mzs.text" = "100";
+
+/* Class = "UILabel"; text = "分"; ObjectID = "Qlp-tL-r69"; */
+"Qlp-tL-r69.text" = "分";
+
+/* Class = "UILabel"; text = "单日最高"; ObjectID = "dpb-l4-xgb"; */
+"dpb-l4-xgb.text" = "单日最高";
+
+/* Class = "UILabel"; text = "平均饮水量"; ObjectID = "if2-iF-RHG"; */
+"if2-iF-RHG.text" = "平均饮水量";
+
+/* Class = "UILabel"; text = "总饮水量"; ObjectID = "k5g-If-Y80"; */
+"k5g-If-Y80.text" = "总饮水量";
+
+/* Class = "UILabel"; text = "250ml"; ObjectID = "kP2-m2-wIY"; */
+"kP2-m2-wIY.text" = "250ml";
+
+/* Class = "UILabel"; text = "健康分析"; ObjectID = "lTG-ON-w1g"; */
+"lTG-ON-w1g.text" = "健康分析";
+
+/* Class = "UILabel"; text = "单日最低"; ObjectID = "nza-ZH-bYR"; */
+"nza-ZH-bYR.text" = "单日最低";
+
+/* Class = "UILabel"; text = "250ml"; ObjectID = "zfW-Il-H7v"; */
+"zfW-Il-H7v.text" = "250ml";
+
+/* Class = "UILabel"; text = "250ml"; ObjectID = "zgo-iH-A8f"; */
+"zgo-iH-A8f.text" = "250ml";

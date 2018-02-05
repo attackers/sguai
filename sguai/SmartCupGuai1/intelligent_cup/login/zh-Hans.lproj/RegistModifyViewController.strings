@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "JlJ-47-Tqu"; */
+"JlJ-47-Tqu.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "XDI-v0-2V6"; */
+"XDI-v0-2V6.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "完善信息"; ObjectID = "fz0-7t-Sfv"; */
+"fz0-7t-Sfv.text" = "完善信息";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "mJ3-CE-WH1"; */
+"mJ3-CE-WH1.normalTitle" = "下一步";

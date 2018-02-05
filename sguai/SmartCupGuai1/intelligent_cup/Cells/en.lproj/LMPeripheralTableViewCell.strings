@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "1.0m"; ObjectID = "SeN-79-dZ9"; */
+"SeN-79-dZ9.text" = "1.0m";
+
+/* Class = "UILabel"; text = "水杯名称"; ObjectID = "mis-uX-aot"; */
+"mis-uX-aot.text" = "cup name";
+
+/* Class = "UILabel"; text = "已连接"; ObjectID = "rMh-4M-Bsp"; */
+"rMh-4M-Bsp.text" = "Connected";

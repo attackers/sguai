@@ -1,0 +1,13 @@
+/*
+ InfoPlist.strings
+ intelligent_cup
+ 
+ Created by admin-leaf on 17/5/10.
+ Copyright © 2017年 makeblock. All rights reserved.
+ */
+"CFBundleDisplayName" = "sguaiEN";
+"NSBluetoothPeripheralUsageDescription"="You need to use the bluetooth connection smart glass";
+"NSLocationAlwaysUsageDescription"="Always allow";
+"NSLocationWhenInUseUsageDescription"="Need to use your positioning function to get the weather information";
+"NSAppleMusicUsageDescription"="You need to use your background music function play alarm sounds";
+"NSCalendarsUsageDescription"="You need to use your calendar function for the date";

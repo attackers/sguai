@@ -1,0 +1,111 @@
+
+/* Class = "UINavigationItem"; title = "提醒"; ObjectID = "1Bg-Lf-U4P"; */
+"1Bg-Lf-U4P.title" = "Reminder";
+
+/* Class = "UIButton"; normalTitle = "意见反馈"; ObjectID = "1zQ-x2-PAh"; */
+"1zQ-x2-PAh.normalTitle" = "Feedback of comment";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "5vz-xI-XWj"; */
+"5vz-xI-XWj.title" = "Home page";
+
+/* Class = "UILabel"; text = "℃"; ObjectID = "7JD-1i-LG4"; */
+"7JD-1i-LG4.text" = "℃";
+
+/* Class = "UILabel"; text = "身高"; ObjectID = "8jo-6d-nrJ"; */
+"8jo-6d-nrJ.text" = "Height";
+
+/* Class = "UILabel"; text = " 饮水目标"; ObjectID = "B0h-T0-h0b"; */
+"B0h-T0-h0b.text" = " Target of drinking";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "B5A-u2-chk"; */
+"B5A-u2-chk.text" = "0%";
+
+/* Class = "UINavigationItem"; title = "关于"; ObjectID = "COL-gh-c5n"; */
+"COL-gh-c5n.title" = "About";
+
+/* Class = "UILabel"; text = "深圳市"; ObjectID = "Dat-qf-Udh"; */
+"Dat-qf-Udh.text" = "Shenzhen";
+
+/* Class = "UILabel"; text = "目标"; ObjectID = "FVA-jD-jdy"; */
+"FVA-jD-jdy.text" = "Target";
+
+/* Class = "UILabel"; text = "0ml"; ObjectID = "HQB-Nd-k1a"; */
+"HQB-Nd-k1a.text" = "0ml";
+
+/* Class = "UILabel"; text = "0ml"; ObjectID = "Hqb-m7-jdO"; */
+"Hqb-m7-jdO.text" = "0ml";
+
+/* Class = "UIButton"; normalTitle = "搜索水杯"; ObjectID = "I2T-cY-4nL"; */
+"I2T-cY-4nL.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "0cm"; ObjectID = "IJF-4A-by8"; */
+"IJF-4A-by8.text" = "0cm";
+
+/* Class = "UILabel"; text = "饮水提醒"; ObjectID = "KZv-D0-Cmm"; */
+"KZv-D0-Cmm.text" = "Reminder of drinking";
+
+/* Class = "UITabBarItem"; title = "个人"; ObjectID = "Na5-gj-Qxl"; */
+"Na5-gj-Qxl.title" = "Personal";
+
+/* Class = "UIButton"; normalTitle = "饮水量"; ObjectID = "OVD-Ms-GTg"; */
+"OVD-Ms-GTg.normalTitle" = "waterIntake";
+
+/* Class = "UILabel"; text = "体重"; ObjectID = "PDc-Nq-BxO"; */
+"PDc-Nq-BxO.text" = "Weight";
+
+/* Class = "UILabel"; text = "0kg"; ObjectID = "QIR-8v-NyA"; */
+"QIR-8v-NyA.text" = "0kg";
+
+/* Class = "UITabBarItem"; title = "水杯"; ObjectID = "UKc-sj-OMe"; */
+"UKc-sj-OMe.title" = "Water cup";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Wd5-S8-Fv1"; */
+"Wd5-S8-Fv1.text" = "0";
+
+/* Class = "UILabel"; text = "24~29℃"; ObjectID = "X6C-Qn-5X3"; */
+"X6C-Qn-5X3.text" = "24~29℃";
+
+/* Class = "UILabel"; text = "13724324493"; ObjectID = "YCi-zM-QJH"; */
+"YCi-zM-QJH.text" = "13724324493";
+
+/* Class = "UILabel"; text = "水杯列表"; ObjectID = "ceo-1n-LAn"; */
+"ceo-1n-LAn.text" = "cup list";
+
+/* Class = "UILabel"; text = "版本信息v1.1"; ObjectID = "fWP-Ir-WCI"; */
+"fWP-Ir-WCI.text" = "Version information v1.1";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "h2b-SA-yaX"; */
+"h2b-SA-yaX.text" = "0%";
+
+/* Class = "UILabel"; text = "当前水温"; ObjectID = "k7n-6A-kDg"; */
+"k7n-6A-kDg.text" = "Current temperature";
+
+/* Class = "UITabBarItem"; title = "关于"; ObjectID = "mve-hY-thE"; */
+"mve-hY-thE.title" = "About";
+
+/* Class = "UINavigationItem"; title = "水杯"; ObjectID = "oDc-a0-19E"; */
+"oDc-a0-19E.title" = "Water cup";
+
+/* Class = "UILabel"; text = "个人资料修改"; ObjectID = "p2E-h2-FGo"; */
+"p2E-h2-FGo.text" = "Successfully modified personal data";
+
+/* Class = "UITabBarItem"; title = "提醒"; ObjectID = "q02-8W-mFV"; */
+"q02-8W-mFV.title" = "Reminder";
+
+/* Class = "UIButton"; normalTitle = "专家推荐"; ObjectID = "r1Z-m3-ynm"; */
+"r1Z-m3-ynm.normalTitle" = "Expert’s recommend";
+
+/* Class = "UIButton"; normalTitle = "健康分析"; ObjectID = "rO9-pn-xiu"; */
+"rO9-pn-xiu.normalTitle" = "Health";
+
+/* Class = "UILabel"; text = "电量还能用0天"; ObjectID = "twB-Wp-L8g"; */
+"twB-Wp-L8g.text" = "The battery can still be used for 0 days";
+
+/* Class = "UILabel"; text = "水杯名称"; ObjectID = "vdI-0K-3pB"; */
+"vdI-0K-3pB.text" = "water cup name";
+
+/* Class = "UIButton"; normalTitle = "退出当前账号"; ObjectID = "w9k-pj-3zM"; */
+"w9k-pj-3zM.normalTitle" = "Exit current account";
+
+/* Class = "UILabel"; text = "登录密码修改"; ObjectID = "xdT-eH-8NZ"; */
+"xdT-eH-8NZ.text" = "Login password modified";

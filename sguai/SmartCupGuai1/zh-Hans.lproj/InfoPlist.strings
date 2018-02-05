@@ -1,0 +1,13 @@
+/*
+ InfoPlist.strings
+ intelligent_cup
+ 
+ Created by admin-leaf on 17/5/10.
+ Copyright © 2017年 makeblock. All rights reserved.
+ */
+"CFBundleDisplayName" = "小水怪";
+"NSBluetoothPeripheralUsageDescription"="需要使用蓝牙连接智能水杯";
+"NSLocationAlwaysUsageDescription"="始终允许";
+"NSLocationWhenInUseUsageDescription"="需要使用您的定位功能获取天气信息";
+"NSAppleMusicUsageDescription"="需要使用您的后台音乐功能播放闹钟声音";
+"NSCalendarsUsageDescription"="需要使用您的日历功能获取日期";

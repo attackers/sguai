@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "根据您的个人资料，我们推荐您一天的饮水目标如下："; ObjectID = "2D6-4l-vV0"; */
+"2D6-4l-vV0.text" = "The recommended daily water intake is as follows：";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7NH-21-Mlw"; */
+"7NH-21-Mlw.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "Dwr-PF-E3i"; */
+"Dwr-PF-E3i.normalTitle" = "cancel";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "OxN-TB-Hrg"; */
+"OxN-TB-Hrg.normalTitle" = "okay";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "PFc-jQ-zdZ"; */
+"PFc-jQ-zdZ.normalTitle" = "Finish";
+
+/* Class = "UILabel"; text = "推荐不能满足要求？点击自定义目标"; ObjectID = "PNj-rN-I1J"; */
+"PNj-rN-I1J.text" = "If not,customize it";
+
+/* Class = "UILabel"; text = "完善信息"; ObjectID = "Yt5-zI-04u"; */
+"Yt5-zI-04u.text" = "Complete the information";
+
+/* Class = "UIButton"; normalTitle = "0ml"; ObjectID = "xcA-Ky-Qzf"; */
+"xcA-Ky-Qzf.normalTitle" = "0ml";

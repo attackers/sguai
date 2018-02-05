@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "BeH-dp-Ul5"; */
+"BeH-dp-Ul5.placeholder" = "Enter the password";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "RvK-eA-zo8"; */
+"RvK-eA-zo8.placeholder" = "Enter the phone number";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "bS4-kG-0HL"; */
+"bS4-kG-0HL.normalTitle" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "wpu-8K-5SV"; */
+"wpu-8K-5SV.normalTitle" = "Forget the password";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "y3Q-Pl-NXl"; */
+"y3Q-Pl-NXl.normalTitle" = "Sign up";
